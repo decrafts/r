@@ -49,9 +49,6 @@ url: https://tropnikov.com/
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
-paginate: 10
-paginate_path: "/blog/page:num/"
-
 #
 # !! You don't need to change any of the configuration flags below !!
 #
