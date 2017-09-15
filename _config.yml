@@ -49,6 +49,7 @@ url: https://tropnikov.com/
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+paginate: 10
 paginate_path: "/blog/page:num"
 
 #
