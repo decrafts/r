@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /blog2wop/
+permalink: /blog/
 title: Блог
 ---
 
