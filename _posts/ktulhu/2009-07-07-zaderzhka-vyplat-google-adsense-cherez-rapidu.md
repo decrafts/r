@@ -15,4 +15,6 @@ categories: [ktulhu]
 
 Остается только ждать, дрочить поддержку <a href="http://www.rapida.ru/pages.php?id=2">Рапиды</a> по тел.: 8-800-555-444-1, и <a href="http://forum.searchengines.ru/showthread.php?t=368972">обсуждать</a> случившееся горе на <a href="http://mastertalk.ru/topic90640.html">форумах</a>.
 
-			
+			<hr/>
+Да суета реально идет сейчас звонил в рапиду, отвечают что я за сегодня не первый на эту тему!
+
