@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Операция «Фестиваль». Подробности (некоторые)
+title: Операция «Фестиваль». Подробности
 permalink: /festival-details.html
 categories: [ktulhu]
 ---
