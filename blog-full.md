@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /blog-full/
+permalink: /blog-full-ann/
 title: Блог
 ---
 
