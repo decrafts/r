@@ -2,7 +2,7 @@
 layout: post
 title: Архив ФСБ
 permalink: /fsb-archive.html
-categories: [ktulhu]
+categories: [uncheck]
 ---
 
 Газета «Коммерсант» рассказывает о [деле сотрудников Тюменского УФСБ](https://www.kommersant.ru/doc/3435739), в котором уже больше десяти эпизодов убийств, совершенных с 2008 года по декабрь 2016 года.
