@@ -17,24 +17,24 @@ categories: [uncheck]
 
 Немножко копнем:
 
-*$ dig mx csr.ru*
+<blockquote>$ dig mx csr.ru</blockquote>
 
-csr.ru. 599 IN MX 10 mail.csr.ru.
+*csr.ru. 599 IN MX 10 mail.csr.ru.*
 
 
-*$ dig mail.csr.ru*
+<blockquote>$ dig mail.csr.ru</blockquote>
 
-mail.csr.ru. 599 IN A 80.250.216.212
+*mail.csr.ru. 599 IN A 80.250.216.212*
 
-*$ whois 80.250.216.212*
+<blockquote>$ whois 80.250.216.212</blockquote>
 
-inetnum: 80.250.216.208 &#8212; 80.250.216.215
+*inetnum: 80.250.216.208 &#8212; 80.250.216.215*
 
-netname: RU-WILAND-BKR-lampadari-net
+*netname: RU-WILAND-BKR-lampadari-net*
 
-org: ORG-OKL1-RIPE
+*org: ORG-OKL1-RIPE*
 
-descr: Torgovaya Kompaniya Lampadari Ltd.
+*descr: Torgovaya Kompaniya Lampadari Ltd.*
 
 &#171;Lampadari&#187; &#8212; &#171;люстры&#187; по итальянски. Вот оно &#8212; логово светоносных. Связь очевидна, дело раскрыто:
 
@@ -43,6 +43,7 @@ descr: Torgovaya Kompaniya Lampadari Ltd.
 Иллюмина́ты (нем. Illuminatenorden, от лат. illuminati) или «просвещённые» (от лат. illuminatus, озарённый, просветлённый, просвещённый) — в разное время название различных объединений (орденов, братств, сект, обществ) оккультно-философского толка и мистического характера, в разной степени дозволенных или секретных, зачастую бывших в оппозиции политическим и религиозным (клерикальным) властям.
 
 </td><td>
+  
 Компания ТК ЛАМПАДАРИ, полное название: &#171;ТОРГОВАЯ КОМПАНИЯ ЛАМПАДАРИ&#187;, ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ, классификация по справочнику ОКВЭД &#171;Розничная торговля по заказам&#187;, &#171;Розничная торговля, осуществляемая непосредственно при помощи телевидения, радио, телефона и Интернет&#187;.
 
 </td></tr></table>
