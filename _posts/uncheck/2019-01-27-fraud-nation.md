@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fraud Nation. Некоторые особенности внешней фискальной политики.
+title: Fraud Nation. Некоторые особенности внешней фискальной политики
 permalink: /fraud-nation.html
 categories: [uncheck]
 ---
