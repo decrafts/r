@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Король чуханов
+title: Чуханы
 permalink: /faggot-king.html
 categories: [uncheck]
 ---
