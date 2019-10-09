@@ -5,7 +5,7 @@ permalink: /otvet-prokuratury-na-zhalobu-o-predvzyatosti-sledstviya.html
 categories: [uncheck]
 ---
 
-Областная прокуратура прислала ответ на Aa href="/zhaloba-v-prokuraturu-na-pokryvatelstvo-sledstviem-narushenij-vtorogo-uchastnika-dtp.html">жалобу о покрывательстве следствием нарушений второго участника ДТП</a>.
+Областная прокуратура прислала ответ на <a href="/zhaloba-v-prokuraturu-na-pokryvatelstvo-sledstviem-narushenij-vtorogo-uchastnika-dtp.html">жалобу о покрывательстве следствием нарушений второго участника ДТП</a>.
 
 ![_config.yml](/images/uncheck/otvet-prokuratury-na-zhalobu-o-predvzyatosti-sledstviya-1.jpg)
 
